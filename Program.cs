@@ -11,7 +11,8 @@
             //PrimeFactors.CalculatePrimeFactros();
             //  QuotientReminder.CalculateQuotietAndRemainder();
             // SwapTwoNumbers.Swapped();
-            EvenOdd.CheckEvenOdd();
+            // EvenOdd.CheckEvenOdd();
+            VowelOrconsonant.CheckVowelOrconsonant();
         }
 
     }
