@@ -4,7 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("welcome to basic core programs");
+            //Console.WriteLine("welcome to basic core programs");
+            FlipCoin.CalculatePercentage();
         }
 
     }
