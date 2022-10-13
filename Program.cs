@@ -10,7 +10,8 @@
             // HarmonicNumber.DisplayHarmonicNumber();
             //PrimeFactors.CalculatePrimeFactros();
             //  QuotientReminder.CalculateQuotietAndRemainder();
-            SwapTwoNumbers.Swapped();
+            // SwapTwoNumbers.Swapped();
+            EvenOdd.CheckEvenOdd();
         }
 
     }
