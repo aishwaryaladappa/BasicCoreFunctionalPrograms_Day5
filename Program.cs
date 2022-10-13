@@ -9,7 +9,8 @@
             // PowerOfTwo.CalculatePwowerOfTwo();
             // HarmonicNumber.DisplayHarmonicNumber();
             //PrimeFactors.CalculatePrimeFactros();
-            QuotientReminder.CalculateQuotietAndRemainder();
+            //  QuotientReminder.CalculateQuotietAndRemainder();
+            SwapTwoNumbers.Swapped();
         }
 
     }
