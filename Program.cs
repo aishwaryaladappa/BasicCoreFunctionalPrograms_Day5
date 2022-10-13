@@ -7,7 +7,8 @@
             //Console.WriteLine("welcome to basic core programs");
             //  FlipCoin.CalculatePercentage();
             // PowerOfTwo.CalculatePwowerOfTwo();
-            HarmonicNumber.DisplayHarmonicNumber();
+            // HarmonicNumber.DisplayHarmonicNumber();
+            PrimeFactors.CalculatePrimeFactros();
         }
 
     }
