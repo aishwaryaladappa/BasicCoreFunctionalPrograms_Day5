@@ -8,7 +8,8 @@
             //  FlipCoin.CalculatePercentage();
             // PowerOfTwo.CalculatePwowerOfTwo();
             // HarmonicNumber.DisplayHarmonicNumber();
-            PrimeFactors.CalculatePrimeFactros();
+            //PrimeFactors.CalculatePrimeFactros();
+            QuotientReminder.CalculateQuotietAndRemainder();
         }
 
     }
