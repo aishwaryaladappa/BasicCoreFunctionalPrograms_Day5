@@ -12,7 +12,8 @@
             //  QuotientReminder.CalculateQuotietAndRemainder();
             // SwapTwoNumbers.Swapped();
             // EvenOdd.CheckEvenOdd();
-            VowelOrconsonant.CheckVowelOrconsonant();
+            //VowelOrconsonant.CheckVowelOrconsonant();
+            LargestNumber.CheckLargestNumber();
         }
 
     }
